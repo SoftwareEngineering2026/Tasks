@@ -38,7 +38,7 @@
 
 ## Отчет
 
-Создать pull request в репозиторий <https://github.com/SoftwareEngeneering/Practice104>. В PR создать каталог с именем `ФамилияИО`.
+Создать pull request в репозиторий <https://github.com/SoftwareEngineering2026/Practice104>. В PR создать каталог с именем `ФамилияИО`.
 
 ### Каталог `ФамилияИО` должен содержать
 
