@@ -257,5 +257,5 @@ done
     RUN chmod +x /usr/local/bin/script.sh
 
     # Выполняем скрипт при запуске контейнера
-    CMD ["/usr/local/bin/script.sh"]
+    CMD ["/bin/bash", "/usr/local/bin/script.sh"]
 ```
